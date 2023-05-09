@@ -1,4 +1,4 @@
-﻿"REF_DATE","GEO","DGUID","Cannabis price","Units of measure","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
+﻿"REF_DATE","GEO","DGUID","Cannabis_price","Units_of_measure","UOM","UOM_ID","SCALAR_FACTOR","SCALAR_ID","VECTOR","COORDINATE","VALUE","STATUS","SYMBOL","TERMINATED","DECIMALS"
 "1961","Canada","2016A000011124","Consumer price","Price per gram","Dollars","81","units ","0","v1001799937","1.1.1","4.39","","","","2"
 "1961","Canada","2016A000011124","Consumer price","Price index","2012=100","383","units ","0","v1001799938","1.1.2","50.3","","","","1"
 "1961","Canada","2016A000011124","Producer price","Price per gram","Dollars","81","units ","0","v1001799973","1.2.1","3.25","","","","2"
