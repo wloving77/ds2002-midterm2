@@ -10,6 +10,6 @@
 
 
 ## Notes that are also included at the bottom of data_initializer.ipynb: 
-1. There are two images in the images directory that show the state of the database's after the structured streaming in Azure Databricks
+1. There are four images in the images directory that show the state of the database's after the structured streaming in Azure Databricks and before
 2. The Cannabis Data I sourced from Kaggle did not have any date style column so my date dimension is largely unused unfortunately, I still included it regardless. 
 3. I hope using Mongo here in the jupyter notebook is enough to get credit for using it as I stuck mostly to loading from SQL after it was initialized here.
